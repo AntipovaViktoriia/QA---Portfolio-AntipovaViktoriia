@@ -11,16 +11,31 @@ It contains bug reports, checklists, test cases, and Postman collections.
 - **Web testing**  
   - [Checklists](./Web/Checklists)  
   - [Test cases](./Web/TestCases)  
-  - [Bug reports](./Web/BugReports)  
+  - [Bug reports](./Web/BugReports)
+    -  PDF/  
+    -  MD/  
+
+     
 
 - **API testing**  
   - [Postman collections](./API/PostmanCollections)  
-  - [Bug reports](./API/BugReports)   
+  - [Bug reports](./API/BugReports)
+    -  PDF/  
+    -  MD/  
+
+          
 
 - **Mobile testing**  
   - [Checklists](./Mobile/Checklists)  
   - [Test cases](./Mobile/TestCases)  
-  - [Bug reports](./Mobile/BugReports)  
+  - [Bug reports](./Mobile/BugReports) 
+    -  PDF/  
+    -  MD/
+
+
+- **All Bug Reports**
+  - PDF/
+ 
 
 ---
 
