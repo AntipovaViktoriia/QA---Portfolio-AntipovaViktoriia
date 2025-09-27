@@ -3,38 +3,32 @@
 This is my QA portfolio.  
 Here I collected examples of my work in **Web**, **API**, and **Mobile testing**.  
 It contains bug reports, checklists, test cases, and Postman collections.  
+All test artifacts were created as part of the **Team Challenge “Chat”** pet project.  
+
 
 ---
 
 ## 📂 Structure  
 
 - **Web testing**  
-  - [Checklists](./Web/Checklists)  
-  - [Test cases](./Web/TestCases)  
-  - [Bug reports](./Web/BugReports)
-    -  PDF/  
-    -  MD/  
-
-     
+  - [Checklists](./Web%20testing/Checklists) – test checklists (MD)  
+  - [Test cases](./Web%20testing/TestCases) – test cases (MD)  
+  - [Bug reports](./Web%20testing/BugReports) – bug reports (MD, PDF from Jira)  
 
 - **API testing**  
-  - [Postman collections](./API/PostmanCollections)  
-  - [Bug reports](./API/BugReports)
-    -  PDF/  
-    -  MD/  
-
-          
+  - [Checklists](./API%20testing/Checklists) – API checklists (MD)  
+  - [Test cases](./API%20testing/Test%20cases) – API test cases (MD)  
+  - [Postman collections](./API%20testing/PostmanCollections) – JSON collection, public Postman link, screenshots (PDF)  
+  - [Bug reports](./API%20testing/Bug%20reports) – bug reports (MD, PDF from Jira)  
 
 - **Mobile testing**  
-  - [Checklists](./Mobile/Checklists)  
-  - [Test cases](./Mobile/TestCases)  
-  - [Bug reports](./Mobile/BugReports) 
-    -  PDF/  
-    -  MD/
+  - [Checklists](./Mobile%20testing/Checklists) – test checklists (MD)  
+  - [Test cases](./Mobile%20testing/TestCases) – test cases (MD)   
+  - [Bug reports](./Mobile%20testing/Bug%20reports) ⚠️ (In progress) – bug reports (MD, PDF from Jira)
 
 
 - **All Bug Reports**
-  - PDF/
+  - [PDF](./All%20Bug%20Reports/PDF) – collection of bug reports (from Jira)
  
 
 ---
